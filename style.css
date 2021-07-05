@@ -1,0 +1,32 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+
+h1{
+    font-size: 50px;
+}
+
+.ExceptColor{
+    color: rgb(119, 0, 255);
+}
+.Flex-container{
+    display: flex;
+    
+}
+.head-width{
+    width: 50%;
+    
+}
+.head-width img{
+    width: 60%;
+    
+}
+.button{
+    text-decoration: none;
+    background-image: linear-gradient(purple, violet);
+    border-radius: 20px;
+    padding: 10px 40px;
+
+}
+
+
