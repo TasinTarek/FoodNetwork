@@ -28,6 +28,7 @@ h1{
     
 }
 .button{
+    
     text-decoration: none;
     background-image: linear-gradient(purple, violet);
     border-radius: 20px;
@@ -75,6 +76,9 @@ h1{
     border-radius: 10px;
     margin-left: 30px;
     margin-right: 30px;
+}
+.textcolor{
+    color: white;
 }
 
 
